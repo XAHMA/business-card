@@ -19,7 +19,7 @@ body {
     text-align: center;
     align-items: center;
     border-bottom: 6px solid #9C0D38;
-    color: #9C0D38;
+    color: white;
     border-radius: 12px;
 
     /*
@@ -57,9 +57,14 @@ body {
 }
 
 @keyframes myColorChange{
-    20%{background-color: #9C89B8;}
-    40%{background-color: #3BF4FB;}
-    60%{background-color: #CAFF8A;}
-    80%{background-color: #353535;}
-    100%{background-color: #588157;}
+    10%{background-color: #03071E;}
+    20%{background-color: #370617;}
+    30%{background-color: #6A040F;}
+    40%{background-color: #9D0208;}
+    50%{background-color: #D00000;}
+    60%{background-color: #DC2F02;}
+    70%{background-color: #E85D04;}
+    80%{background-color: #F48C06;}
+    90%{background-color: #FAA307;}
+    100%{background-color: #FFBA08;}
 }
